@@ -18,6 +18,7 @@ deps@1.0.7
 ejson@1.0.6
 email@1.0.6
 fastclick@1.0.3
+gadicohen:famous-views@0.2.0
 geojson-utils@1.0.3
 html-tools@1.0.4
 htmljs@1.0.4
@@ -31,6 +32,7 @@ iron:location@1.0.7
 iron:middleware-stack@1.0.7
 iron:router@1.0.7
 iron:url@1.0.7
+jag:pince@0.0.6
 johnantoni:meteor-picturefill@0.0.3
 jquery@1.11.3_2
 json@1.0.3
@@ -47,6 +49,7 @@ meteorhacks:picker@1.0.2
 mike:mocha@0.5.4
 minifiers@1.1.5
 minimongo@1.0.8
+mjn:famous@0.3.5
 mobile-status-bar@1.0.3
 momentjs:moment@2.10.3
 mongo@1.1.0
@@ -59,6 +62,7 @@ observe-sequence@1.0.6
 ordered-dict@1.0.3
 package-version-parser@3.0.3
 pauldowman:dotenv@1.0.1
+pierreeric:cssc@1.0.4
 practicalmeteor:chai@1.9.2_3
 practicalmeteor:loglevel@1.1.0_3
 random@1.0.3
@@ -70,6 +74,7 @@ routepolicy@1.0.5
 sanjo:long-running-child-process@1.0.3
 sanjo:meteor-files-helpers@1.1.0_4
 sanjo:meteor-version@1.0.0
+sdecima:javascript-detect-element-resize@0.5.3
 service-configuration@1.0.4
 session@1.1.0
 sha@1.0.3
